@@ -2,7 +2,7 @@
 
 Chào mừng bạn đến với dự án Game Tetris (Xếp gạch) kinh điển, được phát triển bởi Nhóm 5 lớp 25CNTT01. Dự án sử dụng ngôn ngữ Java và áp dụng mô hình kiến trúc MVC để quản lý mã nguồn hiệu quả.
 
-**Giảng viên hướng dẫn:** Thầy Nguyễn Hoàng Hải
+**Giảng viên hướng dẫn:** TS. Nguyễn Hoàng Hải
 ## Thành viên nhóm
 * **Nguyễn Lê Ngọc Phi** (Nhóm trưởng) - Thiết kế Giao diện (View) & Logic khối gạch (Model).
 * **Trần Thuỳ Trinh** - Xử lý điều khiển (Controller) & Luồng chính (Main).
