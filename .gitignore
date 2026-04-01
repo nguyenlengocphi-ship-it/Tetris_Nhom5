@@ -1,0 +1,22 @@
+# Các file biên dịch của Java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+target/
+
+# Các thư mục cấu hình của IDE (VS Code, IntelliJ, Eclipse)
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+.vscode/
+bin/
+
+# Các file hệ thống
+.DS_Store
+Thumbs.db
