@@ -28,7 +28,7 @@ public class GamePanel extends JPanel {
         this.setLayout(new BorderLayout());
         this.setBackground(new Color(33, 37, 41));
         this.setBorder(BorderFactory.createEmptyBorder(10, 15, 10, 15));
-        JPanel infoPanel = new JPanel(new GridLayout(2, 1));
+        JPanel infoPanel = new JPanel(new GridLayout(2, 1)); //gridlayout 2 hang 1 cot
         infoPanel.setOpaque(false);
         infoPanel.setPreferredSize(new Dimension(300, 70));
 
@@ -75,7 +75,7 @@ public class GamePanel extends JPanel {
             this.requestFocusInWindow();
         });
         controlPanel.add(btnPause);
-        this.add(controlPanel, BorderLayout.SOUTH);
+        this.add(controlPanel, BorderLayout.SOUTH); //bolderlayout
         timer = new Timer(500, e -> {
             if (controller.isGameOver() && !isGameOverProcessed) {
                 timer.stop(); 
