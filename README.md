@@ -13,11 +13,11 @@ Chào mừng bạn đến với dự án Game Tetris (Xếp gạch) kinh điển
 ##  Cấu trúc dự án (MVC)
 Dự án được tổ chức theo các package rõ ràng để dễ dàng bảo trì và mở rộng:
 
-* `src/model`: Chứa định nghĩa các khối gạch (I, J, L, O, S, T, Z) và logic di chuyển, xoay khối.
-* `src/view`: Chứa mã nguồn thiết kế giao diện Game Board, bảng điểm và màu sắc.
-* `src/controller`: Chứa bộ điều khiển lắng nghe sự kiện từ bàn phím.
-* `src/utils`: Các lớp hỗ trợ đọc file, xử lý âm thanh `SoundManager.java`.
-* `src/resources`: Chứa các tệp hình ảnh và âm thanh của trò chơi.
+* `CKII/model`: Chứa định nghĩa các khối gạch (I, J, L, O, S, T, Z) và logic di chuyển, xoay khối.
+* `CKII/view`: Chứa mã nguồn thiết kế giao diện Game Board, bảng điểm và màu sắc.
+* `CKII/controller`: Chứa bộ điều khiển lắng nghe sự kiện từ bàn phím.
+* `CKII/utils`: Các lớp hỗ trợ đọc file, xử lý âm thanh `SoundManager.java`.
+* `CKII/resources`: Chứa các tệp hình ảnh và âm thanh của trò chơi.
 
 ---
 
