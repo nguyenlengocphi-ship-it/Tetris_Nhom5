@@ -51,3 +51,4 @@ Dự án được tổ chức theo các package rõ ràng để dễ dàng bảo
 * ![Màn hình Đăng nhập] [https://drive.google.com/file/d/1TMLwGb1725Zw-XTBZE37GVDHAxYkjy0c/view?usp=sharing].
 * ![Màn hình Chơi Game] [https://drive.google.com/file/d/176WjWLFWxGYAujnTG5Vls5oGbLWhLGFm/view?usp=drive_link].
 * ![Màn hình Tạm Dừng Game] [https://drive.google.com/file/d/1N7B8ovPlrcz9nDj-rosodmGLaaVPWQY4/view?usp=drive_link].
+* ![Màn hình Bảng Xếp Hạng] [https://drive.google.com/file/d/1FlMTMKhhMUx8c4WjdAq2KZ0wDXhk0wbZ/view?usp=drive_link].
