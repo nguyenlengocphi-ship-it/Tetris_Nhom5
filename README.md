@@ -44,3 +44,8 @@ Dự án được tổ chức theo các package rõ ràng để dễ dàng bảo
 * **Mũi tên Lên:** Xoay khối gạch.
 * **Mũi tên Xuống:** Tăng tốc độ rơi.
 * **Phím Space:** Rơi ngay lập tức xuống đáy.
+
+  ---
+
+## Ảnh chụp màn hình (Screenshots)
+*
